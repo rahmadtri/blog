@@ -1,0 +1,8 @@
+halo projek ini di buat dengan laravel versi 6
+
+db name : blog
+cara login admin!!!!
+login admin dengan menambahkan alamat url/login kemudian login dengan email di bawah ini
+
+email : triatmoko.rahmad@gmail.com
+pass  : 1234
